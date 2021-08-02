@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Artifical Intelligence'
+project = 'Artificial Intelligence'
 copyright = 'milen'
 author = 'milen'
 
