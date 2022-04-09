@@ -26,13 +26,18 @@
    :caption: 预训练模型篇
    
    预训练模型是什么 <source/pretrain_model/pretrain_model_description>
+   SpanBERT <source/pretrain_model/spanbert>
    RoBERTa <source/pretrain_model/roberta>
+   SKEP <source/pretrain_model/skep>
    ERNIE <source/pretrain_model/ernie>
+   ERNIE3 <source/pretrain_model/ernie3>
+   ERNIE-Gram <source/pretrain_model/ernie_gram>
    KBERT <source/pretrain_model/kbert>
    THU-ERNIE <source/pretrain_model/thu_ernie>
    Transformer-XL <source/pretrain_model/transformer_xl>
    XLNet <source/pretrain_model/xlnet>
    Longformer <source/pretrain_model/longformer>
+   ERNIE-Doc <source/pretrain_model/ernie_doc>
 
 .. toctree::
    :maxdepth: 2
